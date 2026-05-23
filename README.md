@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Reshmitha 👋
 
-<!--
-**reshmithasambhana/reshmithasambhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Full Stack Developer | Java Learner | Beginner Programmer
 
-Here are some ideas to get you started:
+- 🌱 Currently learning Python Full Stack & DSA
+- 💻 Building beginner-friendly real-time projects
+- 🚀 Interested in Web Development & Backend Development
+- 📚 Exploring GitHub and Open Source
+- ⚡ Consistency > Perfection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- Java
+- HTML
+- CSS
+- Git & GitHub
+
+## Projects
+- 🎓 Student Management System (Python)
+- 💰 Expense Tracker
+- 📝 Console Based Mini Projects
+
+## Connect With Me
+- 📫 Reach me through GitHub
+
+---
+⭐ Learning step by step and building projects every day.
